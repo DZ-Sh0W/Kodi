@@ -1,2 +1,2 @@
 
-### Players TMDb Helper: https://lesalkodiques.github.io/players.zip
+### Players TMDb Helper: https://github.com/DZ-Sh0W/Kodi/blob/main/players.zip
